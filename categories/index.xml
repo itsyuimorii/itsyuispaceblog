@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Itsyuimorii Blog</title>
-    <link>https://itsyuimorii.github.io/categories/</link>
+    <link>http://itsyuimorii.me/categories/</link>
     <description>Recent content in Categories on Itsyuimorii Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://itsyuimorii.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://itsyuimorii.me/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
